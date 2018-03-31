@@ -7,6 +7,8 @@ Matlab Reinforcement Learning Code Examples
 * [Pendulum Controller w/ Animation](https://www.mathworks.com/matlabcentral/fileexchange/57882-reinforcement-learning-example-pendulum-controller-w--animation)
 * [SARSA Reinforcement Learning](https://www.mathworks.com/matlabcentral/fileexchange/63089-sarsa-reinforcement-learning)
 * [MDP Algorithm](https://www.mathworks.com/matlabcentral/fileexchange/55943-markov-decision-process--mdp--algorithm)
+* [POMDP](https://github.com/dmaniloff/libpomdp/tree/master/src/matlab)
+
 
 # Toolbox
 
